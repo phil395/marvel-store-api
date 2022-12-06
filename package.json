@@ -2,7 +2,10 @@
   "name": "marvel-store-api",
   "version": "1.0.0",
   "description": "Api wrapper for 'marvel-store' project",
-  "main": "src/MarvelApi.ts",
+  "main": "build/MarvelApi.js",
+  "scripts": {
+    "build": "tsc"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/phil395/marvel-store-api.git"
