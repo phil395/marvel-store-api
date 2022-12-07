@@ -2,7 +2,7 @@
   "name": "marvel-store-api",
   "version": "1.0.1",
   "description": "Api wrapper for 'marvel-store' project",
-  "main": "build/index.js",
+  "main": "build/MarvelApi.js",
   "scripts": {
     "build": "rm -rfv ./build && tsc"
   },
