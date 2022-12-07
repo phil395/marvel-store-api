@@ -1,5 +1,5 @@
 const API = {
-    BASE_URL: 'http://gateway.marvel.com/v1/public',
+    BASE_URL: 'https://gateway.marvel.com/v1/public',
     LABEL: '1',
     PUBLIC_KEY: '65761d4798cf7ace0f43263363877f2c',
     STATIC_HASH: '3b886c1985c8e62c7bc4598d12273160',
