@@ -1,11 +1,8 @@
 {
   "name": "marvel-store-api",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Api wrapper for 'marvel-store' project",
   "main": "build/MarvelApi.js",
-  "scripts": {
-    "build": "rm -rfv ./build && tsc"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/phil395/marvel-store-api.git"
@@ -14,8 +11,5 @@
   "bugs": {
     "url": "https://github.com/phil395/marvel-store-api/issues"
   },
-  "homepage": "https://github.com/phil395/marvel-store-api#readme",
-  "devDependencies": {
-    "typescript": "^4.6.4"
-  }
+  "homepage": "https://github.com/phil395/marvel-store-api#readme"
 }
